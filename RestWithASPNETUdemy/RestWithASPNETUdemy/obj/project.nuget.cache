@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZUBlVrQqVgUEtE2lBnH9xZ6ZK9N3qg7FklOBvFVTof8uSHqqFS5Eg+AVLy2awtGlIbEp40f3YQp7sn+aKO1wEQ==",
+  "success": true,
+  "projectFilePath": "C:\\DevSSD\\CSharp\\Udemy\\RestWithASP-NET5Udemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy\\RestWithASPNETUdemy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\thoma\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.9\\microsoft.visualstudio.azure.containers.tools.targets.1.10.9.nupkg.sha512"
+  ],
+  "logs": []
+}
